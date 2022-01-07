@@ -7,7 +7,7 @@ permalink: /MATLAB/
 # [plotMultipleHists](https://github.com/tulimid1/plotMultipleHists-matlab/blob/main/plotMutlipleHists.m) 
 ---
 
-Plot *N* histograms on the same figure with aligned bins. See [multipleHistogramsEX.mlx](https://github.com/tulimid1/plotMultipleHists-matlab/blob/main/multipleHistogramsEX.mlx) for a notebook of given examples. 
+Plot *N* histograms on the same figure with aligned bins. See [multipleHistogramsEX.mlx](https://www.mathworks.com/matlabcentral/fileexchange/104680-plotmultiplehists-matlab) for a notebook of given examples. 
 
 ## Syntax
 ---

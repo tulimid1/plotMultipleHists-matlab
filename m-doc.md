@@ -29,7 +29,7 @@ Plot 2 histograms on the same figure with aligned bins.
     
     plotMutlipleHists(A, B)
     
-![fig1](/assests/ex1.png)
+![fig1](ex1.png)
     
 ### Example 2
 Plot 5 histograms on the same figure with aligned bins. 
@@ -43,7 +43,7 @@ Plot 5 histograms on the same figure with aligned bins.
     
     plotMutlipleHists(A, B, C, D, E)
     
-![fig2](/assets/ex2.png)
+![fig2](ex2.png)
 
 ## Input Arguments
 ---

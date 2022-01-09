@@ -60,6 +60,6 @@ limitsRange = [min(limits(:,1)), max(limits(:,2))];
 end
 
 function distances = calculateDistanceBtwEdges(h)
-distances = mean(diff(h.BinEdges)); 
+distances = h.BinWidth; 
 end
 
